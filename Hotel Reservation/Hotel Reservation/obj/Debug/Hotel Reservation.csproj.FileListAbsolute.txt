@@ -1,0 +1,21 @@
+C:\Users\ACER\Desktop\Fontys ICT 2021-2022\Retake Semester1\The advanced phase\Assignments\Hotel Reservation\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Fontys ICT 2021-2022\Retake Semester1\The advanced phase\Assignments\Hotel Reservation\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel_Reservation.Form1.resources
+C:\Users\ACER\Desktop\Fontys ICT 2021-2022\Retake Semester1\The advanced phase\Assignments\Hotel Reservation\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel_Reservation.Properties.Resources.resources
+C:\Users\ACER\Desktop\Fontys ICT 2021-2022\Retake Semester1\The advanced phase\Assignments\Hotel Reservation\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Fontys ICT 2021-2022\Retake Semester1\The advanced phase\Assignments\Hotel Reservation\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Fontys ICT 2021-2022\Retake Semester1\The advanced phase\Assignments\Hotel Reservation\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\bin\Debug\Hotel Reservation.exe.config
+C:\Users\ACER\Desktop\Fontys ICT 2021-2022\Retake Semester1\The advanced phase\Assignments\Hotel Reservation\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\bin\Debug\Hotel Reservation.exe
+C:\Users\ACER\Desktop\Fontys ICT 2021-2022\Retake Semester1\The advanced phase\Assignments\Hotel Reservation\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\bin\Debug\Hotel Reservation.pdb
+C:\Users\ACER\Desktop\Fontys ICT 2021-2022\Retake Semester1\The advanced phase\Assignments\Hotel Reservation\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.exe
+C:\Users\ACER\Desktop\Fontys ICT 2021-2022\Retake Semester1\The advanced phase\Assignments\Hotel Reservation\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.pdb
+C:\Users\ryana\Desktop\git\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.csproj.AssemblyReference.cache
+C:\Users\ryana\Desktop\git\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.csproj.SuggestedBindingRedirects.cache
+C:\Users\ryana\Desktop\git\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel_Reservation.Form1.resources
+C:\Users\ryana\Desktop\git\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel_Reservation.Properties.Resources.resources
+C:\Users\ryana\Desktop\git\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.csproj.GenerateResource.cache
+C:\Users\ryana\Desktop\git\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.csproj.CoreCompileInputs.cache
+C:\Users\ryana\Desktop\git\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.exe
+C:\Users\ryana\Desktop\git\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\obj\Debug\Hotel Reservation.pdb
+C:\Users\ryana\Desktop\git\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\bin\Debug\Hotel Reservation.exe.config
+C:\Users\ryana\Desktop\git\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\bin\Debug\Hotel Reservation.exe
+C:\Users\ryana\Desktop\git\sb01-hotel-reservation\Hotel Reservation\Hotel Reservation\bin\Debug\Hotel Reservation.pdb
